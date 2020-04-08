@@ -9,3 +9,7 @@
     color: black;
 
 }
+
+.stock tr:nth-child(even) {
+    background-color: #d1d1d1;
+}
