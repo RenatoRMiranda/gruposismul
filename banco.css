@@ -1,0 +1,22 @@
+.flexo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn {
+    background-color: #E2FF23;
+}
+
+h1,h4 {
+    font-weight: bold;
+}
+
+body {
+    background-image: url("img/papai.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left bottom;
+    color: #707070;
+}
